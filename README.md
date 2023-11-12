@@ -1,2 +1,2 @@
-# flight_price-prediction ..
+# flight_price-prediction .
 Flight_Price_prediction with ML 
